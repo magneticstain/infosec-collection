@@ -12,4 +12,7 @@ My collection of infosec resources I've found helpful over time.
 
 ### Recon
 
+#### WAF Detection
+
+* <https://github.com/EnableSecurity/wafw00f>
 * <https://github.com/Ekultek/WhatWaf>
