@@ -14,6 +14,13 @@ My collection of infosec resources I've found helpful over time.
 
 ### Recon
 
+#### WAF Detection
+
+* <https://github.com/EnableSecurity/wafw00f>
+* <https://github.com/Ekultek/WhatWaf>
+
+### Scanning
+
 #### Subdomain Takeover
 
 * <https://github.com/LukaSikic/subzy>
@@ -21,8 +28,3 @@ My collection of infosec resources I've found helpful over time.
 #### Vuln Scanning
 
 * <https://github.com/projectdiscovery/nuclei>
-
-#### WAF Detection
-
-* <https://github.com/EnableSecurity/wafw00f>
-* <https://github.com/Ekultek/WhatWaf>
