@@ -10,9 +10,18 @@ My collection of infosec resources I've found helpful over time.
 * <https://dmcxblue.gitbook.io/red-team-notes-2-0/>
 * <https://github.com/daffainfo/AllAboutBugBounty>
 
+### "Awesome" Lists
+
+* <https://github.com/enaqx/awesome-pentest>
+* <https://github.com/jivoi/awesome-osint>
+
 ## Tools
 
 ### Recon
+
+#### Asset Discovery & DNS Enumeration
+
+* <https://github.com/owasp-amass/amass>
 
 #### WAF Detection
 
