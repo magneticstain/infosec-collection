@@ -19,12 +19,12 @@ My collection of infosec resources I've found helpful over time.
 * <https://github.com/EnableSecurity/wafw00f>
 * <https://github.com/Ekultek/WhatWaf>
 
-### Scanning
+#### Scanning
 
-#### Vuln Scanning
+##### Vuln Scanning
 
 * <https://github.com/projectdiscovery/nuclei>
 
-#### Subdomain Takeover
+##### Subdomain Takeover
 
 * <https://github.com/LukaSikic/subzy>
