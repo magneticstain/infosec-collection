@@ -2,7 +2,9 @@
 
 My collection of infosec resources I've found helpful over time.
 
-## Security Testing
+## Guides & References
+
+### Security Testing
 
 * <https://exploit-notes.hdks.org/>
 * <https://dmcxblue.gitbook.io/red-team-notes-2-0/>
@@ -18,6 +20,10 @@ My collection of infosec resources I've found helpful over time.
 * <https://github.com/Ekultek/WhatWaf>
 
 ### Scanning
+
+#### Vuln Scanning
+
+* <https://github.com/projectdiscovery/nuclei>
 
 #### Subdomain Takeover
 
