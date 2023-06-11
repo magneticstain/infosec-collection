@@ -17,7 +17,7 @@ My collection of infosec resources I've found helpful over time.
 
 ## Tools
 
-### Recon
+### Info Gathering & Recon
 
 #### Asset Discovery & DNS Enumeration
 
@@ -28,7 +28,7 @@ My collection of infosec resources I've found helpful over time.
 * <https://github.com/EnableSecurity/wafw00f>
 * <https://github.com/Ekultek/WhatWaf>
 
-### Scanning
+### Scanning and Vuln Assessment
 
 #### Subdomain Takeover
 
@@ -37,3 +37,7 @@ My collection of infosec resources I've found helpful over time.
 #### Vuln Scanning
 
 * <https://github.com/projectdiscovery/nuclei>
+
+### Exploit Tools
+
+### Persistence
