@@ -6,14 +6,14 @@ My collection of infosec resources I've found helpful over time.
 
 ### Security Testing
 
-* <https://exploit-notes.hdks.org/>
 * <https://dmcxblue.gitbook.io/red-team-notes-2-0/>
+* <https://exploit-notes.hdks.org/>
 * <https://github.com/daffainfo/AllAboutBugBounty>
 
 ### "Awesome" Lists
 
-* <https://github.com/enaqx/awesome-pentest>
 * <https://github.com/jivoi/awesome-osint>
+* <https://github.com/enaqx/awesome-pentest>
 
 ## Tools
 
