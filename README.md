@@ -22,6 +22,7 @@ My collection of infosec resources I've found helpful over time.
 #### Asset Discovery & DNS Enumeration
 
 * <https://github.com/owasp-amass/amass>
+* <https://github.com/projectdiscovery/httpx>
 
 #### WAF Detection
 
