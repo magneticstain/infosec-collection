@@ -42,3 +42,9 @@ My collection of infosec resources I've found helpful over time.
 ### Exploit Tools
 
 ### Persistence
+
+### Tool Plugins
+
+#### Burp
+
+* <https://github.com/PortSwigger/autorize>
